@@ -2,14 +2,18 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Post 1"
     },
     {
-      "ïd": 2,
-      "title": "YEAAA"
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "fmiche"
   }
 }
