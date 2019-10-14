@@ -1,20 +1,46 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
+  "policy": {
+    "factors": {
+      "devicePosture": {
+        "factorType": "posture",
+        "mandatory": true,
+        "refreshRate": 10000,
+        "token": "Checkup"
+      },
+      "face": {
+        "confidence": 50,
+        "factorType": "biometric_uid",
+        "mandatory": true,
+        "refreshRate": 200,
+        "weight": 60
+      },
+      "gait": {
+        "confidence": 50,
+        "factorType": "biometric",
+        "mandatory": true,
+        "refreshRate": 200,
+        "weight": 10
+      },
+      "thumbprint": {
+        "confidence": 50,
+        "factorType": "biometric_uid",
+        "mandatory": false,
+        "refreshRate": 2000,
+        "weight": 10
+      }
+      "location": {
+        "coordinates": "latitude, longitude",
+        "factorType": "behavior",
+        "geofence": "point + radius",
+        "mandatory": true,
+        "refreshRate": 500000,
+        "weight": 30
+      },  
     },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "profile": {
-    "name": "fmiche"
-  },
-  "up":[]
+    "name": "mobile banking",
+    "policyID": "aabba88e-4gf4-fgh3-09dd-affh43hge23d",
+    "tenantId": "90e8694a-a285-4dee-8831-2ee25f5c0ad3",
+    "platform": "android",
+    "appID": "com.bam.bankingApp"
+  }
 }
