@@ -42,9 +42,8 @@
     "tenantId": "90e8694a-a285-4dee-8831-2ee25f5c0ad3",
     "platform": "android",
     "appID": "com.bam.bankingApp"
-  }
-}
-{
+  },
+
   "score": {
     "timestamp": "2019-10-07T20:26:18+00:00",
     "appid": "com.bam.bankingApp",
