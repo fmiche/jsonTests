@@ -44,3 +44,16 @@
     "appID": "com.bam.bankingApp"
   }
 }
+{
+  "score": {
+    "timestamp": "2019-10-07T20:26:18+00:00",
+    "appid": "com.bam.bankingApp",
+    "deviceUID":"dd65-32ef-fgg3-hged",
+    "value": 75,
+    "hMAC":{
+      "cAlgo": "HS256",
+      "value": "nflksad90swero34rskdvasdkldfSF3e"
+    } 
+  }
+}
+
