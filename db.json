@@ -27,7 +27,7 @@
         "mandatory": false,
         "refreshRate": 2000,
         "weight": 10
-      }
+      },
       "location": {
         "coordinates": "latitude, longitude",
         "factorType": "behavior",
@@ -35,7 +35,7 @@
         "mandatory": true,
         "refreshRate": 500000,
         "weight": 30
-      },  
+      }
     },
     "name": "mobile banking",
     "policyID": "aabba88e-4gf4-fgh3-09dd-affh43hge23d",
