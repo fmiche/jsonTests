@@ -107,14 +107,10 @@
 
   "Post": [
   {
-    "userId": 1,
-    "id": 1,
     "title": "sunt aut ",
     "body": "quia et suscipitsuscipit"
   },
   {
-    "userId": 1,
-    "id": 2,
     "title": "qui est esse",
     "body": "est rerum tempore vitae"
   }
