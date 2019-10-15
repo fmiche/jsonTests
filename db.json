@@ -103,13 +103,11 @@
   }
   ],
   "Post": [
-  {"userId": 1,
-    "id": 1,
+  {
     "title": "sunt aut ",
     "body": "quia et "
   },
-  {"userId": 1,
-    "id": 2,
+  {
     "title": "qui est ",
     "body": "est rerum"
   }
