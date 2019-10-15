@@ -90,26 +90,39 @@
     }
   ],
 
-  "ScorePost": [
-   {"userId": 1,
-    "id": 1,
-    "title": "sunt aut ",
-    "body": "quia et "
-  },
-  {"userId": 1,
-    "id": 2,
-    "title": "qui est ",
-    "body": "est rerum"
-  }
+ "ScorePost": [
+   {
+     "timestamp": "2019-10-07T20:26:18+00:00",
+     "appid": "com.bam.bankingApp",
+     "deviceUID":"dd65-32ef-fgg3-hged",
+     "value": 75,
+     "hMAC":{
+       "cAlgo": "HS256",
+       "value": "nflksad90swero34rskdvasdkldfSF3e"}
+    },
+   {
+     "timestamp": "2019-10-07T20:26:18+00:00",
+     "appid": "com.bam.bankingApp",
+     "deviceUID":"dd65-32ef-fgg3-hged",
+     "value": 75,
+     "hMAC":{
+       "cAlgo": "HS256",
+       "value": "nflksad90swero34rskdvasdkldfSF3e"}
+     }
   ],
+
   "Post": [
   {
+    "userId": 1,
+    "id": 1,
     "title": "sunt aut ",
-    "body": "quia et "
+    "body": "quia et suscipit\nsuscipit"
   },
   {
-    "title": "qui est ",
-    "body": "est rerum"
+    "userId": 1,
+    "id": 2,
+    "title": "qui est esse",
+    "body": "est rerum tempore vitae"
   }
  ]
 }
