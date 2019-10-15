@@ -1,6 +1,6 @@
 {
   "policyStore": [
-    {
+    {"id": 1,
      "factors": {
       "devicePosture": {
         "factorType": "posture",
@@ -44,7 +44,7 @@
      "platform": "android",
      "appID": "com.bam.bankingApp"
     },
-    {
+    {"id": 2,
      "factors": {
       "devicePosture": {
         "factorType": "posture",
