@@ -1,6 +1,8 @@
 {
-  "policy": {
-    "factors": {
+  "policyStore": [
+  {
+    "policy1": {
+     "factors": {
       "devicePosture": {
         "factorType": "posture",
         "mandatory": true,
@@ -36,13 +38,14 @@
         "refreshRate": 500000,
         "weight": 30
       }
-    },
-    "name": "mobile banking",
-    "policyId": "aabba88e-4gf4-fgh3-09dd-affh43hge23d",
-    "tenantId": "90e8694a-a285-4dee-8831-2ee25f5c0ad3",
-    "platform": "android",
-    "appID": "com.bam.bankingApp"
-  },
+     },
+     "name": "mobile banking",
+     "policyId": "aabba88e-4gf4-fgh3-09dd-affh43hge23d",
+     "tenantId": "90e8694a-a285-4dee-8831-2ee25f5c0ad3",
+     "platform": "android",
+     "appID": "com.bam.bankingApp"
+    }
+  }],
 
   "ScorePost": [
    {
