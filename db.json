@@ -91,19 +91,27 @@
   ],
 
  "ScorePost": [
-  {
-    "userId": 1,
+   {
     "id": 1,
-    "title": "sunt aut ",
-    "body": "quia et s uscipitsuscipit"
-  },
-  {
-    "userId": 1,
+     "timestamp": "2019-10-07T20:26:18+00:00",
+     "appid": "com.bam.bankingApp",
+     "deviceUID":"dd65-32ef-fgg3-hged",
+     "value": 75,
+     "hMAC":{
+       "cAlgo": "HS256",
+       "value": "nflksad90swero34rskdvasdkldfSF3e"}
+    },
+   {
     "id": 2,
-    "title": "qui est esse",
-    "body": "est rerum tempore vitae"
-  }
- ],
+     "timestamp": "2019-10-07T20:26:18+00:00",
+     "appid": "com.bam.bankingApp",
+     "deviceUID":"dd65-32ef-fgg3-hged",
+     "value": 75,
+     "hMAC":{
+       "cAlgo": "HS256",
+       "value": "nflksad90swero34rskdvasdkldfSF3e"}
+     }
+  ],
 
   "Post": [
   {
