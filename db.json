@@ -1,4 +1,13 @@
 {
+  "devices":[
+   { "id":1,
+    "bgAppVersion": "1.1",
+    "imei": "35-209900-176148-1",
+    "serial": "dnjj3h4",
+    "manufacturer": "samsung",
+    "applications": ""
+    }
+   ],
   "policyStore": [
     {"id": 1,
      "factors": {
