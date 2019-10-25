@@ -1,6 +1,6 @@
 {
   "Status": [
-   {
+   {"id":1,
     "message": "Server is up",
     "version": "0.1"
    }
