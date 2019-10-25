@@ -1,4 +1,11 @@
 {
+  "Status": [
+   {
+    "message": "Server is up",
+    "version": "0.1"
+   }
+  ],
+
   "devices": [
    { "id":1,
     "bgAppVersion": "1.1",
