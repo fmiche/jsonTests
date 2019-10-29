@@ -1,5 +1,4 @@
-{ "v1": 
-  {
+{
   "Status": [
    {"id":1,
     "message": "Server is up",
@@ -143,7 +142,6 @@
     "body": "est rerum tempore vitae"
   }
  ]
- }
 }
 
 
